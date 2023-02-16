@@ -10,11 +10,15 @@ The goal of this project was to explore the potential relationship between peopl
 
 ### PART III - Music Can Influence Stock Interations?
 Using the VIX Stock and Spotify Top Hits Data, we also decided to do a reversed analyis to see if a possible correlation between Music listening Trends and Stock Market Interactions would be when looking at stock market returns as the reactionary variable.
+
 Our question was: **Can Music on Spotify Shed light on Stock Market Returns?**
+
 **Hypothesis**: The type of music people listen to at any given moment is a reflection of their mood and influences how they choose to use their money
 A key assumption had to be made for this EDA to have a firm logical ground.
+
 **Assumption**: People listen to music that reflects the mood they are currently experienceing, rather than listening to music to change their mood.
 To set the Stock market return as the **reactionary variable** we had to lag it by 3 days in conjuction with the spotify data to be able to map out the feedback.
+
 The grah below shows the final result of this subset of our eploratory data analysis
 ![Graph Mustic to Stock analysis](https://user-images.githubusercontent.com/114604829/219490986-69dee63b-e143-4458-980c-db57946d3a6f.png)
 

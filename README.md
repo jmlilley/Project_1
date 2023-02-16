@@ -8,7 +8,7 @@ The goal of this project was to explore the potential relationship between peopl
 
 
 
-### PART III - Music Can Influence Stock Interations?
+### PART III - Music Influences Stock Interactions?
 Using the VIX Stock and Spotify Top Hits Data, we also decided to do a reversed analyis to see if a possible correlation between Music listening Trends and Stock Market Interactions would be when looking at stock market returns as the reactionary variable.
 
 Our question was: **Can Music on Spotify Shed light on Stock Market Returns?**

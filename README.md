@@ -1,6 +1,7 @@
 # MUSIC AND STOCK EXPLORATORY DATA ANALYSIS
 Project 1 for Group 2: Jonathan Lilley, Ama Tutuwaa, Fiona Blackmon-Burns, Erika Tan, Andrew Herr.
 
+## PROJECT BLURB
 The goal of this project was to explore the potential relationship between people's listening trends/ preferences and stock market returns. Using data from the Spotify API's Daily Top 100's list and historical stock market data like NASDAQ, VIX, and SWBI, the team analyzed whether there was any correlation between the two variables. Our findings are summarised below.
 
 ## PART I - While major catastrophic events have an impact on stock performances, is there an extended effect on Music preferences?
@@ -37,3 +38,5 @@ The double y-axis graph is an effective way to visually represent the relationsh
 
 
 ## PART IV - 
+
+## CONCLUSION

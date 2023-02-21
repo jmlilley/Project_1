@@ -38,5 +38,14 @@ The double y-axis graph is an effective way to visually represent the relationsh
 
 
 ## PART IV - 
+We chose to refer to the most followed stock market indices to conduct our data analyses, and one of these stock market indexes was that of the NASDAQ Composite. Such data source included the historical data from the NASDAQ Stock Exchange. The purpose was to assess whether or not there are trends/patterns in behaviors across different mediums (buying/trading stock vs. music consumption), more specifically, how music consumption influences stock trading (if at all). 
+
+The question(s): Are there behavioral patterns (during the pandemic) that are similar between music consumption (what one decides to listen to) and stock trading? 
+
+Hypothesis: The type of music one listens to can influence their stock trading behaviors (selling/buying more/less). 
+
+Procedure: Data from the NASDAQ Composite between the years of 2019 and 2020 were analyzed based on closing stock price to determine what trends/patterns were found by month. Next, NASDAQ Composite was compared under the parameters laid out by the music data sheet. The purpose of this was to pinpoint between events and occurrences during the time of the pandemic and take a deeper look under those parameters. 
+
+Findings: NASDAQ Closing Stock Prices jumped up in the months of December 2019 and January 2020, peak moments in time of the pandemic. Additionally, it was found that there was an exponential increase at the end of 2020. There was no correlation between type of music listened to and the NASDAQ Stock Prices (during the Pandemic). Instead, it seems as though these two variables are completely unrelated. 
 
 ## CONCLUSION
